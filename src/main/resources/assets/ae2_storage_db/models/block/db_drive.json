@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ae2_storage_db:block/db_drive/drive"
+  }
+}

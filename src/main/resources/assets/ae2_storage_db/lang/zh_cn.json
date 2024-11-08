@@ -1,0 +1,9 @@
+{
+  "itemGroup.ae2_storage_db": "AE2 数据库储存",
+  "item.ae2_storage_db.item_storage_cell_db": "物品数据库储存单元",
+  "item.ae2_storage_db.fluid_storage_cell_db": "流体数据库储存单元",
+  "item.ae2_storage_db.db_item_cell_housing": "物品数据库储存外壳",
+  "item.ae2_storage_db.db_fluid_cell_housing": "流体数据库储存外壳",
+  "item.ae2_storage_db.cell_component_db": "数据库储存元件",
+  "block.ae2_storage_db.db_drive": "基于数据库的存储驱动器"
+}

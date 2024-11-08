@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.misakacloud.mod.ae2storagedb.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ae2-storage-db.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
